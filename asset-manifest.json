@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ffta-map/static/css/main.69298454.css",
+    "main.js": "/ffta-map/static/js/main.d5ceb45e.js",
+    "static/media/update.png": "/ffta-map/static/media/update.12862b251d526f3327e3.png",
+    "static/media/new.png": "/ffta-map/static/media/new.304046de818d4fde4cfd.png",
+    "index.html": "/ffta-map/index.html",
+    "main.69298454.css.map": "/ffta-map/static/css/main.69298454.css.map",
+    "main.d5ceb45e.js.map": "/ffta-map/static/js/main.d5ceb45e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69298454.css",
+    "static/js/main.d5ceb45e.js"
+  ]
+}
